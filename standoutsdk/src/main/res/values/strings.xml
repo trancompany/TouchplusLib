@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StandOutSDK</string>
+    <string name="window_icon">Window icon</string>
+    <string name="hide">Hide</string>
+    <string name="close">Close</string>
+    <string name="corner">Corner</string>
+    <string name="adv">ADV</string>
+</resources>
